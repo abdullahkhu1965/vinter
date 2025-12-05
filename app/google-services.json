@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "485451334370",
+    "firebase_url": "https://vinter-ak-default-rtdb.firebaseio.com",
+    "project_id": "vinter-ak",
+    "storage_bucket": "vinter-ak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485451334370:android:cdb22ec4cf599fc96794bb",
+        "android_client_info": {
+          "package_name": "com.example.vinter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGOhvgPsGoKs9xLMwetrMey53yyIliB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
