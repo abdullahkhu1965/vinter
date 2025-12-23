@@ -201,7 +201,6 @@ _All rights reserved._
 **Developer:** Muhammad Abdullah  
 **Email:** [khurshidabdullah9@gmail.com](mailto:khurshidabdullah9@gmail.com)  
 **University:** Lahore Garrison University, Lahore  
-**Project Supervisor:** Sir Bilal Butt  
 **GitHub Repository:** [https://github.com/abdullahkhu1965/vinter.git](https://github.com/abdullahkhu1965/vinter.git)
 
 ---
